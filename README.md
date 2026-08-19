@@ -53,3 +53,4 @@ git push -u origin main
 - Statistiques honnêtes : plus de faux "+1000 freelancers", des objectifs affichés comme objectifs (cohérent avec la phase de validation en cours).
 - Poids de page divisé par ~30 : suppression des visuels génériques (photo d'accessoires en cuir, portraits stock non utilisés) au profit d'un visuel vectoriel léger et animé.
 - Site responsive, accessible (focus visible, lien d'évitement, `prefers-reduced-motion` respecté), et fonctionnel même si le JavaScript ne charge pas.
+# Refresh
